@@ -1,25 +1,34 @@
-# Dicee
+# 🎲 Dicee
 
-## Tentang Project Ini
+## About This Project
 
-Project ini saya buat sebagai bagian dari pembelajaran iOS Development yang saya ikuti melalui course *The Complete iOS App Development Bootcamp* oleh Angela Yu di Udemy. Dicee merupakan salah satu aplikasi sederhana yang saya kembangkan untuk memahami konsep dasar pemrograman di iOS menggunakan Swift dan Xcode.
+**Dicee** is a simple iOS app I developed as part of my learning journey through *The Complete iOS App Development Bootcamp* by Angela Yu on Udemy. This project was one of my early exercises to grasp the fundamentals of iOS development using **Swift** and **UIKit**.
 
-## Tujuan Project
+The app simulates the classic dice-rolling experience — whenever users are playing some boardgames that usually needs a couple of dices but doesn't really have the dices, then users can use **Dicee** and tap a button to roll the two dices, experiencing a fun and interactive Las Vegas-like experience.
 
-Melalui Dicee, saya mempelajari dasar-dasar penting dalam pengembangan aplikasi iOS, termasuk bagaimana membuat aplikasi yang memiliki interaksi dan fungsionalitas. Aplikasi ini mensimulasikan dua buah dadu yang bisa dikocok dengan menekan tombol atau menggoyangkan ponsel—mirip dengan pengalaman bermain dadu di Las Vegas.
+## Project Objectives
 
-## Hal yang Saya Pelajari
+This project was designed to help me understand key concepts in iOS development, particularly how to:
 
-- Cara mengkloning project Xcode dari GitHub.
-- Membangun aplikasi dengan interaksi pengguna menggunakan tombol dan sensor perangkat.
-- Menghubungkan elemen antarmuka (Interface Builder) dengan kode menggunakan IBActions dan IBOutlets.
-- Menjelajahi dan memahami Xcode code editor.
-- Menggunakan komentar untuk memberi penjelasan pada kode.
-- Pemahaman dan penggunaan variabel serta konstanta di Swift.
-- Pemahaman tentang array di Swift dan bagaimana menggunakannya.
-- Men-debug aplikasi menggunakan Xcode console.
-- Konsep randomisasi dan penerapannya untuk menghasilkan angka acak dalam Swift.
+- Build interactive apps with real-time user input
+- Use Swift for logic and UI updates
+- Work with UIKit components and integrate them through Interface Builder
 
-## Penutup
+## What I Learned
 
-Project ini menjadi langkah awal saya dalam membangun portofolio aplikasi iOS. Meskipun sederhana, Dicee memberikan pondasi yang kuat untuk mengembangkan aplikasi-aplikasi iOS yang lebih kompleks di masa depan.
+Throughout the development of Dicee, I gained hands-on experience with:
+
+- Cloning and setting up Xcode projects from GitHub
+- Creating user interaction through buttons and device motion
+- Connecting UI elements with code using **IBOutlets** and **IBActions**
+- Navigating and editing code in Xcode’s code editor
+- Writing meaningful code comments for clarity
+- Understanding and using **variables**, **constants**, and **arrays** in Swift
+- Debugging apps using the Xcode console
+- Implementing **randomization** in Swift to simulate dice rolls
+
+## Final Thoughts
+
+Although simple, **Dicee** was a crucial milestone in my iOS development journey. It laid a solid foundation for building more complex applications in the future and marked the beginning of my portfolio as an iOS developer.
+
+---
